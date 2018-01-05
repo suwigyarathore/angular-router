@@ -5,17 +5,17 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 This project helps you in understanding various core concepts of Angualar 4 router to make your SPA dynamic and robust.
 
 ## Concepts Covered
-Basic routes.
-Child routes.
-Query params (By snapshot and observable)
-Auth gaurd (Both for entering and leaving)
-Child auth gaurd.
-Default route when no route matched.
-Static data passing to route.
-Dynamic data passing to route.
-Navigating by preserving query params and marking dynamic relative path.
-Redirection.
-Passing dynamic data by Resolve and getting it by router data obeservable.
+* Basic routes  
+* Child routes  
+* Query params (By snapshot and observable)  
+* Auth gaurd (Both for entering and leaving)  
+* Child auth gaurd  
+* Default route when no route matched  
+* Static data passing to route  
+* Dynamic data passing to route  
+* Navigating by preserving query params and marking dynamic relative path  
+* Redirection  
+* Passing dynamic data by Resolve and getting it by router data obeservable  
 
 ## Development server
 
